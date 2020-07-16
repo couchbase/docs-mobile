@@ -2,16 +2,22 @@
 
 // BEGIN
 
+
 // Global attributes
 :_page-status-beta: beta
 :_page-status-gamma: gamma
 :_page-status-review: in-review
+// Show context:title eg Table 1 Example stuff
+:xrefstyle: full
+
 
 // Standard text
 :more: Read More
 :idprefix:
 :idseparator: -
 :blank-field: ____
+
+//shared mobile
 
 // Release Note headings
 :natt: None at this time
@@ -102,9 +108,9 @@
 :xref-pfx-shared: xref:{component-mob}:
 
 :xref-url-cb-downloads: {url-cb-downloads}[Couchbase Downloads page]
-:xref-url-cb-blog: {url-cb-blog}[Couchbase Mobile blog]
-:xref-url-cb-forum: {url-cb-forum}[Couchbase forum]
-:xref-url-cb-forum-mobile: {url-cb-forum-mobile}[Couchbase Mobile Forum]
+:xref-url-cb-blog: {url-cb-blog}[Blog]
+:xref-url-cb-forum: {url-cb-forum}[Forum]
+:xref-url-cb-forum-mobile: {url-cb-forum-mobile}[Forum]
 
 // diag: Env+Shared {param-module}
 
