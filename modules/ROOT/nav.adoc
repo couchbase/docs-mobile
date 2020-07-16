@@ -2,7 +2,7 @@ include::shared-mobile::partial$_attributes-shared.adoc[]
 include::shared-mobile::partial$nav-shared.adoc[]
 
 //include::partial$_attributes-local.adoc[]
-* Test Nav
+//* Test Nav
 //:xref-pg-cbl-index: {xref-pfx-cbl}:index.adoc[Couchbase Lite]
 //:xref-pg-swg-index: {xref-pfx-sgw}:index.adoc[Sync Gateway]
 
