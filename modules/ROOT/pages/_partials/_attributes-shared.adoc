@@ -93,7 +93,7 @@
 :sgw: {component-title-sgw}
 :sg: {component-title-sgw}
 :sgTechNm: {component-sgw}
-:cbl: {component-cbl}
+:cbl: {component-title-cbl}
 :cblTechNM: {component-cbl}
 :cblFrmWk: {cbl} Java Framework
 :svr: {component-title-svr}
