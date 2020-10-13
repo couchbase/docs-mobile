@@ -7,10 +7,8 @@
 // end::api[]
 
 // tag::community[]
-* Community
-** {xref-url-cb-forum-mobile}
-** {xref-url-cb-blog}
-** https://docs.couchbase.com/tutorials/index.html[Tutorials]
+* {xref-url-cb-forum-mobile} *|* {xref-url-cb-blog} *|* https://docs.couchbase.com/tutorials/index.html[Tutorials]
+
 // end::community[]
 
 
