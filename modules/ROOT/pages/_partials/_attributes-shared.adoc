@@ -81,16 +81,23 @@
 :component-svr-status:
 :component-cao-status:
 
-:component-title-sgw: Sync Gateway
-:component-title-cbl: Couchbase Lite
-:component-title-mob: Couchbase Mobile
-:component-title-svr: Couchbase Server
-:component-title-cao: Couchbase Autonomous Operator
+
+:sgw: pass:q,a[sync{nbsp}gateway]
+:sgw-s: pass:q,a[Sync{nbsp}gateway]
+:sgw-t: pass:q,a[Sync{nbsp}Gateway]
+:sgw-te: pass:q,a[_{sgw-t}_]
+
+:component-title-sgw: pass:q,a[{Sgw-e}]
+
+:component-title-cbl: pass:q,a[_Couchbase{nbsp}Lite_]
+:component-title-mob: pass:q,a[_Couchbase{nbsp}Mobile_]
+:component-title-svr: pass:q,a[_Couchbase{nbsp}Server_]
+:component-title-cao: pass:q,a[_Couchbase{nbsp}Autonomous{nbsp}Operator_]
 
 // Product terms
 :cbm: {component-title-mob}
 :cao: {component-title-cao}
-:sgw: {component-title-sgw}
+
 :sg: {component-title-sgw}
 :sgTechNm: {component-sgw}
 :cbl: {component-title-cbl}
