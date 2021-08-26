@@ -1,7 +1,7 @@
 name: shared-mobile
 title: Couchbase Mobile
 version: '3.0'
-start-page: cbmintro.adoc
+start-page: ROOT:cbmintro.adoc
 nav:
 - modules/ROOT/nav.adoc
 prerelease: 'BETA'
