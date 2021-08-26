@@ -87,8 +87,12 @@
 :sgw-t: pass:q,a[Sync{nbsp}Gateway]
 :sgw-te: pass:q,a[_{sgw-t}_]
 
-:component-title-sgw: pass:q,a[{Sgw-e}]
+:cbl: pass:q,a[Couchbase{nbsp}Lite]
+:cbl-s: pass:q,a[{cbl}]
+:cbl-t: pass:q,a[{cbl}]
+:cbl-te: pass:q,a[_{cbl-t}_]
 
+:component-title-sgw: pass:q,a[{sgw-e}]
 :component-title-cbl: pass:q,a[_Couchbase{nbsp}Lite_]
 :component-title-mob: pass:q,a[_Couchbase{nbsp}Mobile_]
 :component-title-svr: pass:q,a[_Couchbase{nbsp}Server_]

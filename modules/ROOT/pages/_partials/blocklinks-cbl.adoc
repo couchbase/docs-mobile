@@ -4,7 +4,6 @@
 // Optional: param-bookmark == section within page
 
 // :xref-cbl-pg-replication: {xref-pfx-cbl}{xref-cbl-module}/learn/{xref-cbl-lang}-replication.adoc
-
 :this-path: {empty}
 :this-bookmark: {empty}
 :this-version: 3.0
@@ -25,6 +24,9 @@ endif::[]
 
 ifeval::[{this-version}>=2.8 ]
 xref:{this-version}@couchbase-lite:android:{this-path}java-android-{param-page}.adoc{this-bookmark}[Android (Java)] |
+ifeval::[{this-version}>=3.0 ]
+xref:{this-version}@couchbase-lite:clang:{this-path}clang-{param-page}.adoc{this-bookmark}[C] |
+endif::[]
 xref:{this-version}@couchbase-lite:csharp:{this-path}csharp-{param-page}.adoc{this-bookmark}[C#] |
 xref:{this-version}@couchbase-lite:java:{this-path}java-{param-page}.adoc{this-bookmark}[Java] |
 xref:{this-version}@couchbase-lite:objc:{this-path}objc-{param-page}.adoc{this-bookmark}[Objective-C] |
