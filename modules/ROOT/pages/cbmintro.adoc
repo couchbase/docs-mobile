@@ -1,0 +1,56 @@
+= Introduction to Couchbase Mobile
+:page-layout: landing-page-core-concept
+:!sectids:
+include::partial$_attributes-shared.adoc[]
+
+= Introduction to Couchbase Mobile
+++++
+<div class="card-row">
+++++
+
+[.column]
+====== {empty}
+
+[.content]
+Couchbase Mobile brings the power of NoSQL to the edge. it delivers an always-on experience, even with spotty networks and dropped connections.
+Scale from hundreds to millions of users with the flexibility to add capacity at every tier:
+
+* client (Couchbase Lite)
+* middle (Sync Gateway)
+* storage (Couchbase Server)
+
+The two Couchbase Mobile components (Sync Gateway and Couchbase Lite), combine with Couchbase Server to provide fast, efficient bidirectional synchronization of data between the edge and the cloud.
+Enabling you to deploy your offline-first mobile and embedded applications with greater agility on premises or in any cloud.
+[.column]
+====== {empty}
+[.media-left]
+image::sync-gateway::cbm-architecture.svg[]
+++++
+</div>
+++++
+
+== {empty}
+++++
+<div class="card-row">
+++++
+
+[.column]
+====== {empty}
+[.content]
+.Sync Gateway
+Sync Gateway is an internet-facing synchronization mechanism designed to provide data synchronization for large-scale interactive web, mobile, and IoT applications.
+xref:sync-gateway::index.adoc[Go to Sync Gateway]
+
+[.column]
+====== {empty}
+[.content]
+.Couchbase Lite
+Couchbase Lite is an embedded, NoSQL JSON Document Style database for your mobile apps.
+It natively supports all major operating systems and platforms.
+Its NoSQL client database provides CRUD, full-text search and query capabilities that runs locally on the device.
+xref:couchbase-lite::index.adoc[Go to Couchbase Lite]
+
+++++
+</div>
+++++
+// Couchbase Lite, Couchbase Server SDKs, Sync Gateway, and Couchbase Server.

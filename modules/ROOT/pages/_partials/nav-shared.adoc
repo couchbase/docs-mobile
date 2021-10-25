@@ -1,0 +1,13 @@
+// Nav menu for Couchbase Mobile
+//
+include::shared-mobile::partial$_attributes-shared.adoc[]
+
+:xref-pg-mobile-intro: {xref-pfx-shared}:cbmintro.adoc[About Mobile]
+:xref-pg-cbl-index: {xref-pfx-cbl}:index.adoc[{component-title-cbl}]
+:xref-pg-sgw-index: {xref-pfx-sgw}:index.adoc[{component-title-sgw}]
+
+.{component-title-mob}
+* {xref-pg-mobile-intro}
+* {xref-pg-cbl-index}
+* {xref-pg-sgw-index}
+// End Nav menu for Couchbase Mobile
