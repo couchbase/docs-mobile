@@ -1,2 +1,0 @@
-include::shared-mobile::partial$_attributes-shared.adoc[]
-include::shared-mobile::partial$nav-shared.adoc[]

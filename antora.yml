@@ -1,7 +1,18 @@
 name: shared-mobile
 title: Couchbase Mobile
 version: '3.0'
+prerelease: sandbox
+display-version: '3.0 sandbox'
 start-page: ROOT:cbmintro.adoc
 nav:
 - modules/ROOT/nav.adoc
-prerelease: 'BETA'
+asciidoc:
+  attributes:
+    prerelease: sandbox
+    is-beta: true
+    release: '3.0'
+    major: 3
+    minor: 0
+    maintenance: 0
+    base: 0
+    releasetag:
