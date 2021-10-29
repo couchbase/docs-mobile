@@ -1,6 +1,7 @@
 name: shared-mobile
-title: Couchbase Mobile (gamma)
+title: Couchbase Mobile
 version: '2.8'
+dislay-version: '2.8 (sandbox)'
 start-page: cbmintro.adoc
 nav:
 - modules/ROOT/nav.adoc
