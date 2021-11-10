@@ -60,9 +60,6 @@
 :major: 2
 :minor: 8
 //:patch: 0
-:version: {major}.{minor}
-:version-full: {major}.{minor}.0
-//:version-maint: {major}.{minor}.{patch}
 
 // CAO version numbers
 :version_cao: 2.0
