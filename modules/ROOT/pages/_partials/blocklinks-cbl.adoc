@@ -6,7 +6,7 @@
 // :xref-cbl-pg-replication: {xref-pfx-cbl}{xref-cbl-module}/learn/{xref-cbl-lang}-replication.adoc
 :this-path: {empty}
 :this-bookmark: {empty}
-:this-version: 3.0
+:this-version: 3.1
 :pre-2x8: false
 
 ifdef::param-page[]
